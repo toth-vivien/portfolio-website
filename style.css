@@ -389,7 +389,6 @@ h3 {
     text-align: center;
     position: relative;
     padding: 1.5rem;
-    margin-left: 1rem;
     border: 2px solid #f8c924;
     border-radius: 12px;
     background: linear-gradient(0deg,rgba(217, 238, 241, 1) 25%, rgba(255, 255, 255, 1) 100%);
@@ -441,7 +440,7 @@ h3 {
     position: absolute;
     width: 22px;
     height: 22px;
-    left: -63px;
+    left: -46.5px;
     top: 50%;
     transform: translateY(-50%);
     background: #f8c924;
@@ -749,6 +748,10 @@ h3 {
 
     .intro{
         padding: 0 1rem;
+    }
+
+    .resume-container {
+        margin: 0 30px;
     }
 
     .inspect-img img, .inspect-gif img {
