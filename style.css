@@ -553,6 +553,11 @@ h3 {
     transition: transform 0.2s ease;
 }
 
+.project-card > img {
+    width: 180px;
+    margin-top: 15px;
+}
+
 .project-card p {
     padding: 15px;
 }
