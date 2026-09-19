@@ -481,7 +481,9 @@ h3 {
 
 .first-project-features {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
     margin-bottom: 12px;
 }
 
