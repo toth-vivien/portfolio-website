@@ -475,6 +475,26 @@ h3 {
     margin-top: 0;
 }
 
+.first-project-features-container > h4 {
+    margin: 12px 0;
+}
+
+.first-project-features {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 12px;
+}
+
+.first-project-features > li {
+    list-style: none;
+    border-radius: 20px;
+    padding: 5px 15px;
+    background: linear-gradient(0deg, whitesmoke 50%, white 100%);
+    border: 1px solid #f8c924;
+    color: #2163a6;
+    box-shadow: 3px 3px 3px gray;
+}
+
 .inspect-container {
     display: flex;
     justify-content: center;
